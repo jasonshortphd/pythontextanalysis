@@ -4,4 +4,9 @@ Text sentiment analysis with python.  This is a non production project for learn
 Where possible I will include links to any datasets that I found.
 
 First data that I found:
-https://www.kaggle.com/shashank1558/preprocessed-twitter-tweets/data
+http://help.sentiment140.com/for-students
+Has lots of classified tweets.
+0 = Negative
+2 = Neutral
+4 = Postive
+
